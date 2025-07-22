@@ -1,0 +1,5 @@
+# Plant Care Assistant Requirements
+# Python 3.6 or higher recommended
+# No external dependencies required - uses only standard library
+
+# To run: python plant_care_assistant.py
